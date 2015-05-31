@@ -4,7 +4,7 @@ library(tseries)
 
 # for making data readable in R
 #write.table(data_excess_cc,file="data_excess_cc.csv",sep = ",",col.names=TRUE)
-table<-read.csv("C:/Users/user/Documents/GenericPredictionModel/ARAR/data_excess_cc.csv",header=TRUE,sep=",")
+table<-read.csv("data.csv",header=TRUE,sep=",")
 head(table)
 
 # for stationarity
