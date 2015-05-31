@@ -24,5 +24,3 @@ Ar<- arar( table$avgloss,h=10,opt=2 )
 # for checking how effectively forecasted values are we have to see
 #arar$ pred value with actual value.
 
-
-### my name is khan
